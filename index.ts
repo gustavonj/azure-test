@@ -22,7 +22,7 @@ server.connection({ port });
       register: HapiSwagger,
       options: {
         info: {
-          title: 'Node.js with MongoDB Example - Azure Test',
+          title: 'Node.js with MongoDB Example - Azure Test2',
           version: '2.0',
         },
       },
